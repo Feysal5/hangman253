@@ -29,3 +29,7 @@ To run the Hangman Game, you need Python installed on your machine. You can clon
 
 ```bash
 git clone https://github.com/your-username/hangman-project.git
+
+##Usage
+Once the game is running, follow the on-screen instructions to guess letters and play the game. The game will continue until the player either correctly guesses the word or runs out of attempts.
+
